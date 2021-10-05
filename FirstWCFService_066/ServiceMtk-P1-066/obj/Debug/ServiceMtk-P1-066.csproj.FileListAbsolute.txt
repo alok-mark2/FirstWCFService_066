@@ -1,0 +1,7 @@
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\bin\Debug\ServiceMtk-P1-066.dll.config
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\bin\Debug\ServiceMtk-P1-066.dll
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\bin\Debug\ServiceMtk-P1-066.pdb
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\obj\Debug\ServiceMtk-P1-066.csprojAssemblyReference.cache
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\obj\Debug\ServiceMtk-P1-066.csproj.CoreCompileInputs.cache
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\obj\Debug\ServiceMtk-P1-066.dll
+D:\Pengembangan app terdistribusi\minggu1\ServiceMtk-P1-066\ServiceMtk-P1-066\obj\Debug\ServiceMtk-P1-066.pdb
